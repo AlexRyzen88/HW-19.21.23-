@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\33\work21\bin\Debug\net7.0\work21.exe
+C:\Users\Alex\Desktop\33\work21\bin\Debug\net7.0\work21.deps.json
+C:\Users\Alex\Desktop\33\work21\bin\Debug\net7.0\work21.runtimeconfig.json
+C:\Users\Alex\Desktop\33\work21\bin\Debug\net7.0\work21.dll
+C:\Users\Alex\Desktop\33\work21\bin\Debug\net7.0\work21.pdb
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\work21.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\work21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\work21.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\work21.AssemblyInfo.cs
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\work21.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\work21.dll
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\refint\work21.dll
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\work21.pdb
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\work21.genruntimeconfig.cache
+C:\Users\Alex\Desktop\33\work21\obj\Debug\net7.0\ref\work21.dll

@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\work23.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\work23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\work23.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\work23.AssemblyInfo.cs
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\work23.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\33\work23\bin\Debug\net7.0\work23.exe
+C:\Users\Alex\Desktop\33\work23\bin\Debug\net7.0\work23.deps.json
+C:\Users\Alex\Desktop\33\work23\bin\Debug\net7.0\work23.runtimeconfig.json
+C:\Users\Alex\Desktop\33\work23\bin\Debug\net7.0\work23.dll
+C:\Users\Alex\Desktop\33\work23\bin\Debug\net7.0\work23.pdb
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\work23.dll
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\refint\work23.dll
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\work23.pdb
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\work23.genruntimeconfig.cache
+C:\Users\Alex\Desktop\33\work23\obj\Debug\net7.0\ref\work23.dll
